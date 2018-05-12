@@ -1,0 +1,35 @@
+_repo: Reihensteinin-perillinen--Alkuper-inen-saksalainen-novelli_31058
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lempiranta, Arvo
+    aliases:
+    - Arvo L:nd
+    - Liljestrand, Arvo
+    - L:nd, Arvo
+    birthdate: 1860
+    deathdate: 1914
+    gutenberg_agent_id: '8156'
+    url: http://www.gutenberg.org/2009/agents/8156
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reinwald, Theodor
+    gutenberg_agent_id: '34982'
+    url: http://www.gutenberg.org/2009/agents/34982
+description: ''
+gutenberg_issued: '2010-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31058'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: 'Reihensteinin perillinen: Alkuperäinen saksalainen novelli'
+url: http://www.gutenberg.org/ebooks/31058
